@@ -1,0 +1,28 @@
+{
+  "name": "certify-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --loader ts-node/esm ex.ts",
+    "create-nft": "ts-node create-nft.ts",
+    "ex": "ts-node ex.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@metaplex-foundation/mpl-token-metadata": "^3.3.0",
+    "@metaplex-foundation/umi": "^0.9.2",
+    "@metaplex-foundation/umi-bundle-defaults": "^0.9.2",
+    "@metaplex-foundation/umi-uploader-irys": "^0.10.0-beta.0",
+    "@solana/web3.js": "^1.95.5",
+    "esrun": "^3.2.26"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
