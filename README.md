@@ -26,7 +26,7 @@ Certify is a revolutionary app designed to combat counterfeit products and ensur
 ![Scan QR](ss/scan.png)
 ![User Profile](ss/user-profile.png)
 
-Download the apk file here [https://drive.google.com/file/d/1gYEDREYV-EY-mHWyE9dYSVHWVXCI2_JX/view?usp=drive_link]
+Download the apk file here [https://drive.google.com/drive/folders/1R59SFJYeEmL2Xfi81-pc4WwT8-TinwVY]
 
 ## Setup Instructions
 
