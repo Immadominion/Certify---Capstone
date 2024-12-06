@@ -13,7 +13,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 mixin DioMixin {
   Dio connect({Map<String, dynamic>? customHeaders}) {
     BaseOptions options = BaseOptions(
-      baseUrl: 'https://certify-h4f.onrender.com/api',
+      baseUrl: 'https://certify-zeus.onrender.com/api',
       connectTimeout: const Duration(seconds: 200),
       receiveTimeout: const Duration(seconds: 200),
       responseType: ResponseType.json,
